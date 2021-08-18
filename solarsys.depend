@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1629317527 source:c:\users\prasad\desktop\solarsys\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1426329928 c:\users\prasad\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\users\prasad\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
